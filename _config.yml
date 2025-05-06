@@ -5,9 +5,9 @@ theme: jekyll-theme-minima
 nav:
   - name: Home
     link: /
-  - name: About
+  - name: About me!
     link: /about
   - name: Services
     link: /services
-  - name: Contact
+  - name: Contact me
     link: /contact
