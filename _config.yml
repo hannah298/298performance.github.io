@@ -2,3 +2,12 @@ title: 29eight Performance
 description: Science-driven online personal training
 theme: jekyll-theme-minima   
 
+nav:
+  - name: Home
+    link: /
+  - name: About
+    link: /about
+  - name: Services
+    link: /services
+  - name: Contact
+    link: /contact
